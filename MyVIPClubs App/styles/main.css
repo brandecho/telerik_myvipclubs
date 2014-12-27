@@ -39,7 +39,7 @@
 #friendsApp.km-flat .km-navbar,
 #friendsApp.km-flat .km-content {
     border: 0 none;
-    background-color: #2d3e50;
+    background-color: #000;
     color: #fff;
     font-family: "Open Sans", sans-serif;
 }
@@ -147,7 +147,7 @@
 
 #friendsApp .btn-login,
 #friendsApp .signup-view .btn-signup {
-    background-color: #1bbc9b;
+    background-color: #efae08;
 }
 
 #friendsApp .signup-view .btn-signup,
@@ -250,17 +250,17 @@
 
 #friendsApp .app-logo,
 #friendsApp .app-name {
-    margin-top: 1.5em;
+    margin-top: .5em;
 }
 
 #friendsApp .app-logo {
-    width: 247px;
-    height: 32px;
-    background: transparent url(images/logo-telerik_devcloud.png) no-repeat 0 0;
+    width: 280px;
+    height: 74px;
+    background: transparent url(images/MyVIPClubs_Logo_12042014.9.png) no-repeat 0 0;
 }
 
 #friendsApp .app-name {
-    margin-bottom: 1.5em;
+    margin-bottom: .5em;
 }
 
 #friendsApp .app-name small {
@@ -570,8 +570,8 @@
 (min-resolution: 144dpi) {
 
     #friendsApp .app-logo {
-        background-image: url(images/logo-telerik_devcloud@2x.png);
-        background-size: 247px 32px;
+        background-image: url(images/MyVIPClubs_Logo_12042014.9.png);
+        background-size: 280px 74px;
     }
 
     #login-form .username:before {

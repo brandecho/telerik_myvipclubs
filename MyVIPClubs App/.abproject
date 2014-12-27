@@ -2,15 +2,15 @@
   "ProjectName": "MyVIPClubs App",
   "ProjectGuid": "100cffc1-8678-40f5-bd6a-99aad4b52bb5",
   "projectVersion": 1,
-  "AppIdentifier": "com.telerik.MyVIPClubsApp",
-  "DisplayName": "MyVIPClubs App",
+  "AppIdentifier": "com.myvipclubs.myvip",
+  "DisplayName": "MyVIPClubs",
   "Author": "",
-  "Description": "",
+  "Description": "MyVIPClubs",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
     "1",
-	"2"
+    "2"
   ],
   "iOSBackgroundMode": [],
   "WP8TileTitle": "",
@@ -47,7 +47,7 @@
   ],
   "CordovaPluginVariables": {
     "com.telerik.mobiletesting": {
-        "IOS_APP_URL": "friends"
+      "IOS_APP_URL": "friends"
     }
   },
   "AndroidPermissions": [
